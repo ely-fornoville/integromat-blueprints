@@ -1,1 +1,7 @@
-test
+Use these files to import in Integromat
+
+Calendly-to-Zoom-Mail.json:
+Create a new Zoom meeting after receiving a Calendly meeting request + send an email to the client with the Zoom details.
+
+Stripe-to-Telegram-GoogleDrive-Mail.json:
+Send a message to your Telegram bot after a Stripe payment succeeded. Also create a Google Drive folder and send an email to the client.
